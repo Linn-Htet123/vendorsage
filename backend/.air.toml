@@ -1,0 +1,9 @@
+[build]
+  cmd = "go build -o ./tmp/main ./cmd/main.go"
+  bin = "./tmp/main"
+  watch_dir = "."
+  include_ext = ["go"]
+  exclude_dir = ["tmp", "vendor"]
+
+[log]
+  time = false

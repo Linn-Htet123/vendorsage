@@ -1,0 +1,198 @@
+[
+  {
+    "from": "receipts@uber.com",
+    "to": "user@example.com",
+    "subject": "Your trip with Uber - $24.50",
+    "body": "Thanks for riding with Uber. Your trip on June 15, 2025 cost $24.50. Payment charged to your card on file.",
+    "date": "2025-06-15"
+  },
+  {
+    "from": "no-reply@slack.com",
+    "to": "user@example.com",
+    "subject": "Your Slack Pro invoice for July 2025",
+    "body": "Hi, your Slack Pro plan has been renewed. Amount: $8.75/user x 12 users = $105.00/month. Billing cycle: monthly.",
+    "date": "2025-07-01"
+  },
+  {
+    "from": "billing@notion.so",
+    "to": "user@example.com",
+    "subject": "Notion Plus - Payment received",
+    "body": "We have received your payment of $10.00 for Notion Plus (monthly). Your next billing date is August 5, 2025.",
+    "date": "2025-07-05"
+  },
+  {
+    "from": "noreply@grab.com",
+    "to": "user@example.com",
+    "subject": "Your GrabFood order receipt",
+    "body": "Order total: $18.90. Restaurant: Som Tam Nua. Delivered on July 3, 2025. Payment charged to GrabPay.",
+    "date": "2025-07-03"
+  },
+  {
+    "from": "team@linear.app",
+    "to": "user@example.com",
+    "subject": "Welcome to Linear",
+    "body": "Welcome to Linear! Your workspace is ready. You are on the Free plan. Upgrade to Linear Plus at $8.00/user/month to unlock more features.",
+    "date": "2025-07-06"
+  },
+  {
+    "from": "invoices@figma.com",
+    "to": "user@example.com",
+    "subject": "Figma Professional - Invoice #4821",
+    "body": "Invoice for Figma Professional plan. Amount: $15.00/editor x 5 editors = $75.00/month. Billing cycle: monthly.",
+    "date": "2025-07-01"
+  },
+  {
+    "from": "no-reply@amazon.com",
+    "to": "user@example.com",
+    "subject": "Your Amazon order has shipped",
+    "body": "Your order of Sony WH-1000XM5 Headphones ($298.00) has shipped. Estimated delivery: July 9, 2025.",
+    "date": "2025-07-07"
+  },
+  {
+    "from": "support@vercel.com",
+    "to": "user@example.com",
+    "subject": "Your Vercel Pro trial is expiring soon",
+    "body": "Hi, your Vercel Pro trial expires on July 15, 2025. Upgrade now to keep your deployments running. Pro plan is $20.00/month.",
+    "date": "2025-07-10"
+  },
+  {
+    "id": "tc_01",
+    "from": "marketing@doordash.com",
+    "subject": "Get 50% off your next order!",
+    "body": "We missed you! Use code HUNGRY50 to get 50% off. Most orders average $25.00. Offer expires Sunday.",
+    "date": "2026-04-01"
+  },
+  {
+    "id": "tc_02",
+    "from": "billing@github.com",
+    "subject": "Your GitHub Copilot renewal failed",
+    "body": "We couldn't process your payment of $10.00. Please update your card to keep your subscription active.",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "tc_03",
+    "from": "support@zoom.us",
+    "subject": "You've been downgraded to Basic",
+    "body": "Your Pro subscription ended on April 1st. You are now on the Free plan ($0.00/mo).",
+    "date": "2026-04-03"
+  },
+  {
+    "id": "tc_04",
+    "from": "receipts@apple.com",
+    "subject": "Your receipt from Apple - Refund",
+    "body": "We have processed a refund for 'iCloud+ 2TB'. Amount: -$9.99. This will appear on your statement in 5 days.",
+    "date": "2026-04-04"
+  },
+  {
+    "id": "tc_05",
+    "from": "no-reply@digitalocean.com",
+    "subject": "Credit Added to Account",
+    "body": "A credit of $50.00 was added to your account via a promotional code. Your current balance is $50.00.",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "tc_06",
+    "from": "noreply@medium.com",
+    "subject": "Upgrade to Membership?",
+    "body": "You've read 3 stories this month. Join for $5.00/month to get unlimited access to everything.",
+    "date": "2026-04-06"
+  },
+  {
+    "id": "tc_07",
+    "from": "billing@aws.com",
+    "subject": "AWS Service Usage Report",
+    "body": "Your estimated usage for the period of March is $0.42. No action is required at this time.",
+    "date": "2026-04-07"
+  },
+  {
+    "id": "tc_08",
+    "from": "mom@gmail.com",
+    "subject": "Happy Birthday!",
+    "body": "Hope you have a great day! I sent $50 to your bank account as a gift.",
+    "date": "2026-04-08"
+  },
+  {
+    "id": "tc_09",
+    "from": "no-reply@netflix.com",
+    "subject": "Your plan has changed",
+    "body": "Success! You've switched to the Premium plan. Your new price of $22.99/mo will start on your next bill, May 1st.",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "tc_10",
+    "from": "orders@starbucks.com",
+    "subject": "Your Starbucks Reload",
+    "body": "We successfully reloaded $25.00 to your Starbucks Card ending in 4421. Transaction date: April 10.",
+    "date": "2026-04-10"
+  },
+  {
+    "id": "tc_14",
+    "from": "no-reply@calendly.com",
+    "subject": "Confirmed: Introduction Call with Emily Aung",
+    "body": "Hi Larry, your meeting is confirmed for April 15, 2025 at 10:00 AM. Location: Google Meet Link.",
+    "date": "2025-04-10T09:00:00Z"
+  },
+  {
+    "id": "tc_15",
+    "from": "support@github.com",
+    "subject": "[GitHub] Please verify your email address",
+    "body": "Click the button below to verify your email address and finish setting up your account.",
+    "date": "2025-04-11T14:30:00Z"
+  },
+  {
+    "id": "tc_16",
+    "from": "newsletter@medium.com",
+    "subject": "The Top 10 Go Frameworks for 2026",
+    "body": "Inside: Why Gin is still king and how Fiber is catching up. Read the full story here.",
+    "date": "2026-01-20T08:00:00Z"
+  },
+  {
+    "id": "tc_17",
+    "from": "alerts@paloaltonetworks.com",
+    "subject": "Urgent: Critical Vulnerability in your Repository",
+    "body": "A critical CVE-2026-1234 has been detected in your backend repo. Patch immediately.",
+    "date": "2026-03-25T11:45:00Z"
+  },
+  {
+    "id": "tc_18",
+    "from": "no-reply@zoom.us",
+    "subject": "Your recording is now available",
+    "body": "The cloud recording for 'Sprint Planning' is ready to view. Passcode: 12345678.",
+    "date": "2026-03-26T17:00:00Z"
+  },
+  {
+    "id": "tc_19",
+    "from": "noreply@messenger.facebook.com",
+    "subject": "You have a new message from Aunt May",
+    "body": "Aunt May sent you a message: 'Happy Birthday! Hope you like the cake!'",
+    "date": "2026-04-08T10:00:00Z"
+  },
+  {
+    "id": "tc_20",
+    "from": "support@notion.so",
+    "subject": "You've been invited to 'Project Alpha' workspace",
+    "body": "User 'John Doe' invited you to collaborate on Project Alpha. Join now to start editing.",
+    "date": "2025-07-15T09:15:00Z"
+  },
+  {
+    "id": "tc_21",
+    "from": "shipping@fedex.com",
+    "subject": "Delivery Exception: Address not found",
+    "body": "We were unable to deliver your package (Tracking #998877) because the address was incorrect.",
+    "date": "2026-02-14T13:00:00Z"
+  },
+  {
+    "id": "tc_22",
+    "from": "info@meetup.com",
+    "subject": "New Meetup: Bangkok Go Developers",
+    "body": "Next event: April 25th at 6:30 PM. 45 people are attending. Join them at the WeWork office.",
+    "date": "2026-04-05T12:00:00Z"
+  },
+  {
+    "id": "tc_23",
+    "from": "team@slack.com",
+    "subject": "A quick tip for using Slack Huddles",
+    "body": "Did you know you can share your screen in a Huddle? Try it today with your team.",
+    "date": "2025-07-02T10:00:00Z"
+  }
+]
